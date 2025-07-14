@@ -1,6 +1,7 @@
 
 # Statistisches-Praktikum
-Thema: Schwanzbeißen in der Ferkelaufzucht
+Thema: Schwanzbeißen in der Ferkelaufzucht 
+(Analyse von Tierhaltungsdaten zur Erkennung von Risikofaktoren)
 
     
 ⚠️ Hinweis zur Datenverfügbarkeit
